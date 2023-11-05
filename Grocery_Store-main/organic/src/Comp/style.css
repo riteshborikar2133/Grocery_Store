@@ -1,0 +1,25 @@
+.Itemtable{
+    /* position: relative; */
+    /* border: 1px solid black; */
+    margin: auto;
+}
+table{
+    margin: auto;
+    width: 70vw;
+    border: 1px solid black;
+    overflow-y: scroll;
+    text-align: center;
+    box-shadow: 2px 3px 10px black;
+}
+table thead tr{
+    text-transform: uppercase;
+    background-color: black;
+}
+table thead tr th{
+    /* border: 1px solid red; */
+    color: white;
+    padding: 0.51rem;
+}
+table tbody tr td{
+    padding: 1rem;
+}
